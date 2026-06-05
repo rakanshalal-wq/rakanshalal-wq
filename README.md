@@ -9,3 +9,12 @@
 أبني منصات متعددة بين **التعليم، الذكاء الاصطناعي، تجربة المستخدم، وأنظمة السحابة**.  
 أهتم بتحويل الأفكار والحاجة الفعلية إلى برامج صالحة للاستخدام، من الواجهة إلى الخلفية والنشر.
 </div>
+---
+
+## 🐍 مساهماتي تتحرك
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rakanshalal-wq/rakanshalal-wq/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
+
+</div>
